@@ -534,6 +534,7 @@ document.addEventListener('touchmove',e=>e.preventDefault(),{passive:false});
 // ═══════════════════════════════════════════
 applyLang();
 ctx.fillStyle='#06060f'; ctx.fillRect(0,0,canvas.width,canvas.height);
+document.addEventListener('touchstart', ()=>enterFS(), {once:true, passive:true});
 </script>
 <script>
 if('serviceWorker' in navigator){
