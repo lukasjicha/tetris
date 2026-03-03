@@ -1,4 +1,5 @@
 {
+  "id": "com.luckyluke81.luckyblocks",
   "name": "LuckyBlocks – Classic Puzzle",
   "short_name": "LuckyBlocks",
   "description": "Klasická hra s padajícími bloky. Žádné reklamy, navždy zdarma.",
@@ -10,5 +11,15 @@
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "screenshots": [
+    { "src": "main.jpg",  "type": "image/jpeg", "form_factor": "narrow", "label": "Hlavní obrazovka / Main screen" },
+    { "src": "hra1.jpg",  "type": "image/jpeg", "form_factor": "narrow", "label": "Gameplay 1" },
+    { "src": "hra2.jpg",  "type": "image/jpeg", "form_factor": "narrow", "label": "Gameplay 2" },
+    { "src": "hra3.jpg",  "type": "image/jpeg", "form_factor": "narrow", "label": "Gameplay 3" },
+    { "src": "hra4.jpg",  "type": "image/jpeg", "form_factor": "narrow", "label": "Gameplay 4" },
+    { "src": "hra5.jpg",  "type": "image/jpeg", "form_factor": "narrow", "label": "Gameplay 5" },
+    { "src": "pauza.jpg", "type": "image/jpeg", "form_factor": "narrow", "label": "Pauza / Pause" },
+    { "src": "konec.jpg", "type": "image/jpeg", "form_factor": "narrow", "label": "Game Over" }
   ]
 }
