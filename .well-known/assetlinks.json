@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.luckyluke81.luckyblocks",
+        "sha256_cert_fingerprints": ["82:85:7C:44:E4:B0:97:16:F7:55:B3:2B:EC:A3:FE:D7:54:69:BC:26:32:CC:39:A8:35:07:CB:22:1D:14:44:D1"]
+      }
+    }]
